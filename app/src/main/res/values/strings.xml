@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Etiket</string>
     <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="signin">SIGN IN</string>
 </resources>
